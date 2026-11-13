@@ -22,4 +22,4 @@ A collection of beginner-friendly Python Mini-Projects built to strengthen core 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+   git clone [https://github.com/meetarj1807-glitch/python-beginner-projects.git](https://github.com/meetarj1807-glitch/python-beginner-projects.git)
